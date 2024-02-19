@@ -1,0 +1,130 @@
+.header1{
+    background-color: #141313;
+    color: #969191;
+    font-size: 13px;
+    padding-left: 296px;
+    height: 38px;
+    padding-top: 10px;
+}.header2{
+    background-color: #141313;
+    color: #f3f0f0;
+    text-align: center;
+    padding-top: 135px;
+    /* width: 100px; */
+}.header3{
+   background-color: #141313;
+   color: whitesmoke;
+   text-align: center;
+   padding-top: 10px;
+}.header4{
+    background-color: #141313;
+    padding-top: 160px;
+}.aa{
+    background-color: white;
+    height: 30px;
+}.content1{
+    font-size: 10px;
+    padding-top: 10px;
+}.head1{
+    padding-top: 10px;
+    height: 10px;
+}.content2{
+    font-size: 10px;
+    padding-top: 10px;
+}.head2{
+    padding-top: 39px;
+}img{
+    width: 46%;
+    height: 414px;
+    padding-top: 21px;
+}.btnOne{
+    background-color: #e1eaea;
+    font-size: 14px;
+}.btnTwo{
+    background-color: #ff3300;
+    font-size: 14px;
+}.btnthree{
+    background-color: #ff6600;
+    font-size: 14px;
+}.btndivclass{
+    padding-top: 52px;
+}.btnoneSpan{
+    font-size: 15px;
+    color: #7c7676;
+}.btntwoSpan{
+  font-size: 12px;
+  color: white;
+}.btnthreeSpan{
+   font-size: 12px;
+   color: white;
+}.whitespacediv{
+    background-color: white;
+    height: 10px;
+}.lovemsgDiv{
+    background-color: #141313;
+    color: #e1eaea;
+    text-align: center;
+    height: 100px;
+    padding-top: 40px;
+}.basebackground{
+    background-color: white;
+    padding-top: 25px;
+}.boxclas{
+    border-color: #00000052;
+    border-style: solid;
+    border-radius: 6px;
+    /* width: 249px; */
+    border-width: thin;
+    text-align: center;
+}.awardrowclas{
+    height: 152px;
+    justify-content: center;
+    padding-top: 45px;
+}.awardDownwhite{
+    height: 100px;
+}.contentBox{
+    padding-top: 50px;
+}.content3{
+    font-size: 10px;
+}.content4DowmW{
+    height: 100px;
+}.lastDownBlack{
+    height: 175px;
+    background-color: #141313;
+    color: white;
+}.lastBlack2{
+    font-size: 10px;
+    color: white;
+}.lastBlackCol1{
+    padding-top: 37px;
+}.lastBlack1{
+    font-size: 13px;
+}.lastBlack3{
+    color: #7c7676;
+}.lastBlack4{
+    color: #7c7676;
+    font-size: 13px;
+}.lastBlack6{
+    font-size: 12px;
+}.lastBlack5{
+    color: rgb(89 89 217);
+    font-size: 12px;
+}.btag{
+    font-size: 13px;
+}.v1{
+    border-left: 2px solid #3c3f3b;
+    height: 109px;
+    position: absolute;
+    left: 102%;
+    margin-left: -5px;
+    top: 22px;
+}.v2{
+    border-left: 2px solid #3c3f3b;
+    height: 109px;
+    position: absolute;
+    left: 1%;
+    margin-left: -5px;
+    top: 22px;
+}.AwardSpantag{
+    font-size: 11px;
+}
